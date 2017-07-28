@@ -1,0 +1,2 @@
+# ignoreFile
+Trying gitignore
